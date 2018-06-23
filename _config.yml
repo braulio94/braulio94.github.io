@@ -1,5 +1,5 @@
 # Site
-title:              'Braulio Cassule'
+title:              Braulio Cassule
 bio:                'Android/Flutter Developer'
 description:        "Welcome to my page"
 reading_time:       true
@@ -39,7 +39,7 @@ google:
 #bing-verify:
 email:              brauliocassule94@gmail.com
 twitter:            brauliocaassule
-facebook:           100001606846139
+#facebook:           100001606846139
 github-url:         braulio94
 stackoverflow:     6526237/braulio-cassule   
 # from a "http://stackoverflow.com/users/123456/username" link
@@ -53,9 +53,9 @@ pinterest:         bcassule
 #foursquare:        username
 #steam:              evanotevil
 dribbble:          braulio94
-youtube:           UCVRO3HZARJHrXlC2uZ0a4oQ
+#youtube:           UCVRO3HZARJHrXlC2uZ0a4oQ
 youtube-channel:   UCVRO3HZARJHrXlC2uZ0a4oQ
-soundcloud:        braulio-cassule
+#soundcloud:        braulio-cassule
 #weibo:             username
 #flickr:            username
 #codepen:           username
